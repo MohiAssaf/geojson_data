@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "name": "devicesLastHour",
+    "name": "devicesLastHourAirThings",
     "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
     "features": [
     { "type": "Feature", "properties": { "id": 1, "deviceName": "AT1", "deviceId": "AT22229480", "type": "Develiot", "longitude": 23.296306, "latitude": 42.680889, "address": "Парк хиподрума (АИС Хиподрума)", "name": "Парк „Хиподрума“ - При повишена влажност е възможно да има отклонения в измерените стойности", "description": null, "installationDate": "2019-07-12T00:00:00", "powerSupply": 4, "contactOrganisation": "TBS", "contactEmail": "servicedesk@telelink.com", "contactPhone": "02/920 40 40", "organisation": "SofiaMunicipality", "createdAt": "2019-12-23T17:34:02.848", "updatedAt": "2023-02-11T19:38:07.118", "lastActivity": "2023-04-02T11:20:39.912", "isOnline": true, "activeSensors": 11, "activeSensorsExpected": 11, "measurements": [ 20, 24, 19, 14, 17, 23, 22, 21, 26, 16, 18 ], "time": "2023-04-02T13:00:00Z", "CO": 0.18529508363845704, "HUMIDITY": 30.066833333333332, "NO2": 15.551241999088836, "O3": 51.445454987035326, "PM10": 0.43128947698796533, "PM2": 0.11543213145382578, "PRESSURE": 941.36633333333339, "SO2": 8.9472098046193338, "TEMP": 18.28 }, "geometry": { "type": "Point", "coordinates": [ 23.296306, 42.680889 ] } },
